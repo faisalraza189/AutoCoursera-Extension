@@ -2,7 +2,7 @@
 <p align="center"><a target="_blank" rel="noreferrer noopener"><img width="75%" alt="F**k Neocollab extension" src="/banner.png"></a></p>
 <p align="center">Auto Coursera <strong>Saves your</strong>  precious time that could have been otherwise wasted in completing <strong>Coursera courses</strong></p>
 <br/>
-<p align="center"><a rel="noreferrer noopener" href="https://chromewebstore.google.com/detail/neoexamshield/deojfdehldjjfmcjcfaojgaibalafifc"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+<p align="center"><a rel="noreferrer noopener" href="https://file.kiwi/e037f5b1#HY_s_6BAPEQOvKbWueeJfg"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 <a rel="noreferrer noopener"><img alt="Opera Add-ons" src="https://img.shields.io/badge/Opera-141e24.svg?&style=for-the-badge&logo=opera&logoColor=white"></a>
 <a rel="noreferrer noopener"><img alt="Brave Add-ons" src="https://img.shields.io/badge/Brave-141e24.svg?&style=for-the-badge&logo=brave&logoColor=white"></a>
 <a rel="noreferrer noopener"><img alt="Edge Addons" src="https://img.shields.io/badge/Edge-141e24.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white"></a>
